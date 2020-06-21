@@ -14,7 +14,7 @@
 
 ### Available Arguments:
 - **-h or --help:** *Displays all the available options.*
-- **-q or --queue-num:** *Optional. Is used to define quene number for IP tables.*
+- **-q or --queue-num:** *Optional. Is used to define queue number for IP tables.*
 
 - **Note:** 
 	- You need to be connected to the same network.
